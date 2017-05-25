@@ -14,7 +14,7 @@ Remove `<KEY HERE>` at line 14 with your own key. If you don't have an key, you 
 
 How to use the `ResolverOOP.php` script:
 
-This is a advanced code, but easier to use than the other one. Copy the code from line `1` to `48` and paste this code on a new file for example `MyWebresolverClass.php`. Then include this class by putting `require_once("path/to/MyWebresolverClass.php");` on top of your index.php file.
+This is an advanced code, but easier to use than the other one. Copy the code from line `1` to `48` and paste this code on a new file for example `MyWebresolverClass.php`. Then include this class by putting `require_once("path/to/MyWebresolverClass.php");` on top of your index.php file.
 
 Then update line `48` and enter your API key: `$webresolver = new WebresolverNL("0000-0000-0000-0000");`
 Elsewhere in your script you can use this variable by using this example code:
