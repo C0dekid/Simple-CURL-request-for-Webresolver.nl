@@ -6,10 +6,8 @@ How to use the `resolver.php` script:
 
 Remove `<KEY HERE>` at line 14 with your own key. If you don't have an key, you can request one for free at https://www.webresolver.nl/plans
 
-@Param `action`
-Enter the action for this request. Available API tools can be found here: https://webresolver.nl/api
-@Param `string`
-Enter the string, for example the Skype name from the user you want to resolve.
+@Param `action` Enter the action for this request. Available API tools can be found here: https://webresolver.nl/api
+@Param `string` Enter the string, for example the Skype name from the user you want to resolve.
 
 -------------
 
