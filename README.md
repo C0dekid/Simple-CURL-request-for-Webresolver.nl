@@ -8,7 +8,6 @@ Remove `<KEY HERE>` at line 14 with your own key. If you don't have an key, you 
 
 @Param `action`
 Enter the action for this request. Available API tools can be found here: https://webresolver.nl/api
-
 @Param `string`
 Enter the string, for example the Skype name from the user you want to resolve.
 
