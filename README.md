@@ -32,4 +32,4 @@ try {
 }
 ```
 
-If you have question or it doesn't work, contact me at Discord: https://discord.gg/fBpyh6F
+If you have question or it doesn't work, contact me at Discord: https://discord.gg/pqFBFAr
